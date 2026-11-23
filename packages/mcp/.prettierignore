@@ -1,0 +1,15 @@
+# Dependencies
+node_modules
+
+# Build outputs
+dist
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Generated from skills/context7-mcp/SKILL.md (pnpm build:skill)
+src/lib/skill-md.ts
